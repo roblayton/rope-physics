@@ -1,4 +1,4 @@
-rope-physics
-============
+# rope-physics
 
-Physics demonstration of a rope
+## Controls
+- Move the mouse around the screen
